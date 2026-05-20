@@ -1,7 +1,7 @@
 - Hi, I’m @qehmu
 - I’m interested in Mountain skiing
-- I’m currently learning Python and Go. Writing some projects. Trying to progress and education.
-
+- I’m currently learning Python and Go. Writing some projects. Trying to progress and education.(This is a lie)
+- Finding myself happy in mountaing skiing. Hope same to you. 
 Checkouut my site: https://qehmu.github.io/hello_site/
 Cya>!
 <!---
